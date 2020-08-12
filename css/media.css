@@ -1,0 +1,88 @@
+@media only screen and (max-width:480px)
+{
+    /*navbar*/
+    .navbar
+    {
+        flex-direction: column;
+    }
+    .navbar ul
+    {
+        width: 369px;
+    }
+    .items
+    {
+        margin: 10px 10px;
+    }
+    .items a
+    {
+        padding: 2px 8px;
+    }
+    .logo
+    {
+     width: 64%;
+    }
+    /*section*/
+    
+
+    .slideshow
+    {
+        margin: 0;
+    }
+    .h-primary
+    {
+        font-size: 1.8rem;
+    }
+    .webinfop
+    {
+        font-size: 0.7rem;
+        text-align: center;
+    }
+    .slides img
+    {
+        width: 350px;
+    }
+    /*contactus*/
+    .maincontact
+    {
+        flex-direction: column;
+        margin: 2px;
+    }
+    .rightcontact
+    {
+        width: 278px;
+    }
+    .servicesimage
+    {
+        width: 80px;
+    }
+    .services
+    {
+        padding: 20px;
+        width: 80px;
+        flex-wrap: wrap;
+        margin: 5px 8px;
+        height: 145px;
+    
+    }
+    .services p
+    {
+        font-size: 0.5rem;
+    }
+    h2
+    {
+        font-size: 1rem;
+    }
+    #aboutus
+    {
+        font-size: 0.7rem;
+    }
+    #copyright
+    {
+        font-size: 0.7rem;
+    }
+    .basicinfo , .maincontact
+    {
+        margin: 0px;
+        width: 99%;
+    }
+}
