@@ -87,7 +87,7 @@ flex-direction: row;
 /*margin: 15px 5px;*/
 margin:auto;
 padding: 15px;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 
