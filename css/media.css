@@ -8,6 +8,8 @@
     .navbar ul
     {
         width: 369px;
+        justify-content: center;
+        align-items: center;
     }
     .items
     {
@@ -19,7 +21,20 @@
     }
     .logo
     {
-     width: 64%;
+        justify-content: center;
+        align-items: center;
+    
+    }
+    .logo p a
+    {
+        font-size: 1.3rem;
+    }
+    .logo img{
+        width: 36px;
+        border-radius: 6px;
+    }
+    .items a{
+        font-size: 0.8rem;
     }
     /*section*/
     
@@ -30,7 +45,7 @@
     }
     .h-primary
     {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
     .webinfop
     {
@@ -39,7 +54,7 @@
     }
     .slides img
     {
-        width: 350px;
+        width: 320px;
     }
     /*contactus*/
     .maincontact
@@ -70,7 +85,7 @@
     }
     h2
     {
-        font-size: 1rem;
+        font-size: 0.7rem;
     }
     #aboutus
     {
@@ -84,5 +99,12 @@
     {
         margin: 0px;
         width: 99%;
+    }
+    .imageslider
+    {
+        flex-direction: column;
+        flex-grow: 1;
+        justify-content: center;
+        align-items: center;
     }
 }
