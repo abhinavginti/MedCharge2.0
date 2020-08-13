@@ -61,6 +61,7 @@
     {
         overflow: hidden;
     }
+    
     .maincontact
     {
         flex-direction: column;
@@ -94,6 +95,7 @@
     #aboutus
     {
         font-size: 0.7rem;
+        overflow:hidden;
     }
     #copyright
     {
@@ -103,6 +105,7 @@
     {
         margin: 0px;
         width: 99%;
+        overflow:hidden;
     }
     .imageslider
     {
