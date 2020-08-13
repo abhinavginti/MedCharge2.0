@@ -57,6 +57,10 @@
         width: 320px;
     }
     /*contactus*/
+    #contactus
+    {
+        overflow: hidden;
+    }
     .maincontact
     {
         flex-direction: column;
